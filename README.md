@@ -12,7 +12,7 @@ public interface CodingStyle {
 ```
 public static boolean checkValue(int x)
 ```
-* **variable**- should start with lowercase letter. e.g. fisrt-Name, orderNumber, etc.
+* **variable**- should start with lowercase letter. e.g. firstName, orderNumber, etc.
 ```
 String firstName = "Kareem";
 String lastName = "Dasilva";
